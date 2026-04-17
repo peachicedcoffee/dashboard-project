@@ -1,0 +1,16 @@
+<script setup></script>
+
+<template>
+  <RouterView />
+</template>
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #0f172a;
+}
+</style>

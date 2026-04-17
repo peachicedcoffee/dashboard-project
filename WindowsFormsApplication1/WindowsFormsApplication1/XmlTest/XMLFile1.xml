@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CmBarcode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MarginLeft>0</MarginLeft>
+  <MarginTop>0</MarginTop>
+  <MarginRight>0</MarginRight>
+  <MarginBottom>0</MarginBottom>
+  <Landscape>false</Landscape>
+  <PageWidth>100</PageWidth>
+  <PageHeight>60</PageHeight>
+  <PageRotation>0</PageRotation>
+  <DrawCommandList>
+    <DrawCommand xsi:type="DrawRectCmd" X="2.5" Y="1.75" Width="94.75" Height="56.25" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawLineCmd" X="2.5" Y="8.75" Width="94.83" Height="0" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" X1="2.5" Y1="8.75" X2="94.83" Y2="0">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawLineCmd" X="2.5" Y="30.25" Width="94.83" Height="0" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" X1="2.5" Y1="30.25" X2="94.83" Y2="0">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawLineCmd" X="2.5" Y="35.25" Width="72.25" Height="0" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" X1="2.5" Y1="35.25" X2="72.25" Y2="0">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawLineCmd" X="31.25" Y="30.25" Width="0" Height="22" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" X1="31.25" Y1="30.25" X2="0" Y2="22">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawTextCmd" DataField="" X="2.75" Y="30.5" Width="28" Height="3.5" Angle="Degree0" LineWidth="0" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" Text="■ corporation" AspectRatio="100" LetterSpacing="0" AutoLetterSpacing="false" HorizontalAlign="Center" VerticalAlign="Center" WordWrap="false" Font="Tahoma^@^11^@^Bold">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawTextCmd" DataField="" X="32" Y="30.75" Width="42.5" Height="4" Angle="Degree0" LineWidth="0" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" Text="■ Pallet NO." AspectRatio="100" LetterSpacing="0" AutoLetterSpacing="false" HorizontalAlign="Center" VerticalAlign="Center" WordWrap="false" Font="Tahoma^@^11^@^Bold">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawTextCmd" DataField="" X="4.25" Y="3" Width="92" Height="5.25" Angle="Degree0" LineWidth="0" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="-1" Text="Materials Name Plate" AspectRatio="100" LetterSpacing="0" AutoLetterSpacing="false" HorizontalAlign="Center" VerticalAlign="Center" WordWrap="false" Font="Tahoma^@^12^@^Bold">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawTextCmd" DataField="CORPORATION" X="3" Y="35.5" Width="27.5" Height="16.5" Angle="Degree0" LineWidth="0" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" Text="베트남" AspectRatio="100" LetterSpacing="0" AutoLetterSpacing="false" HorizontalAlign="Center" VerticalAlign="Center" WordWrap="true" Font="돋움^@^18.75^@^Bold">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawTextCmd" DataField="PALLETNO" X="32" Y="36.25" Width="41.5" Height="15.25" Angle="Degree0" LineWidth="0" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" Text="999" AspectRatio="100" LetterSpacing="0" AutoLetterSpacing="false" HorizontalAlign="Center" VerticalAlign="Center" WordWrap="false" Font="돋움^@^40.75^@^Bold">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawRectCmd" X="7.25" Y="10.5" Width="85" Height="17" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawLineCmd" X="7.25" Y="10.5" Width="-4.75" Height="-1.75" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" X1="7.25" Y1="10.5" X2="-4.75" Y2="-1.75">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawLineCmd" X="7.25" Y="27.5" Width="-4.75" Height="2.5" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" X1="7.25" Y1="27.5" X2="-4.75" Y2="2.5">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawLineCmd" X="92.25" Y="10.5" Width="4.75" Height="-1.75" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" X1="92.25" Y1="10.5" X2="4.75" Y2="-1.75">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawLineCmd" X="92.25" Y="27.5" Width="5" Height="2.5" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" X1="92.25" Y1="27.5" X2="5" Y2="2.5">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawTextCmd" DataField="SHIPMARK" X="6.75" Y="10.75" Width="84" Height="20.25" Angle="Degree0" LineWidth="0" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" Text="HCCD" AspectRatio="100" LetterSpacing="0" AutoLetterSpacing="false" HorizontalAlign="Center" VerticalAlign="Center" WordWrap="false" Font="Arial^@^60^@^Bold">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawLineCmd" X="74.75" Y="30.25" Width="0" Height="22" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" X1="74.75" Y1="30.25" X2="0" Y2="22">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawBarcodeCmd" DataField="TLOTNO" X="76.5" Y="31.5" Width="19.25" Height="19" Angle="Degree0" LineWidth="1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" Code="2023121300000000001" ShowCodeText="true" BarcodeType="Barcode2D" Barcode1DType="CODE128" Barcode2DType="QRCODE" NarraowBarRatio="1" ThickBarRatio="1" MaxWidthScaleFactor="0.07" LetterSpacing="0" AutoLetterSpacing="false" Font="굴림^@^12^@^Regular">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawTextCmd" DataField="NATIVEC" X="31.75" Y="47.5" Width="42.75" Height="5" Angle="Degree0" LineWidth="0" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" Text="" AspectRatio="100" LetterSpacing="0" AutoLetterSpacing="false" HorizontalAlign="Center" VerticalAlign="Center" WordWrap="false" Font="돋움^@^8^@^Bold">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawTextCmd" DataField="CDREF01" X="74.5" Y="10.5" Width="22.5" Height="8.5" Angle="Degree0" LineWidth="0" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" Text="" AspectRatio="100" LetterSpacing="0" AutoLetterSpacing="false" HorizontalAlign="Center" VerticalAlign="Center" WordWrap="false" Font="Tahoma^@^17^@^Bold">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawLineCmd" X="2.5" Y="52.25" Width="94.75" Height="0" Angle="Degree0" LineWidth="0.1" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" X1="2.5" Y1="52.25" X2="94.75" Y2="0">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+    <DrawCommand xsi:type="DrawTextCmd" DataField="TLOTNO" X="3.41666675" Y="52.6666679" Width="93.5" Height="5" Angle="Degree0" LineWidth="0" DashStyle="Solid" Visible="true" Color="-16777216" BackColor="16777215" Text="" AspectRatio="100" LetterSpacing="0" AutoLetterSpacing="false" HorizontalAlign="Center" VerticalAlign="Center" WordWrap="false" Font="돋움^@^8^@^Bold">
+      <BindingColor />
+      <BindingBackColor />
+      <BindingVisible />
+    </DrawCommand>
+  </DrawCommandList>
+</CmBarcode>
