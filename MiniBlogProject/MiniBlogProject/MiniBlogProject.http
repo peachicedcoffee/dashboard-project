@@ -1,6 +1,0 @@
-@MiniBlogProject_HostAddress = http://localhost:5293
-
-GET {{MiniBlogProject_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
