@@ -1,0 +1,14 @@
+# .NET
+**/bin/
+**/obj/
+**/*.user
+**/.vs/
+
+# Vue
+**/node_modules/
+**/dist/
+**/.env.local
+
+# 기타
+*.log
+.DS_Store
